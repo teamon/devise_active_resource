@@ -1,6 +1,4 @@
 require 'devise_active_resource'
-#require 'devise/orm/active_resource/schema'
-require 'orm_adapter/adapters/active_resource'
 
 module Devise
   module Orm
