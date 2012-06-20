@@ -5,6 +5,7 @@ Gem::Specification.new do |s|
   s.name        = "devise_active_resource"
   s.version     = "0.1"
   s.summary     = %Q{Support for using ActiveResource with devise}
+  s.author      = ["jc00ke"]
   s.homepage    = "http://github.com/teamon/devise_active_resource"
   s.files       = Dir.glob("lib/**/*") + %w(devise_active_resource.gemspec)
   s.test_files  = Dir.glob("test/**/*")
